@@ -1,0 +1,10 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2024/06/30/10/28/sky-8862862_1280.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

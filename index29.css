@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+
+
+}
+.ka{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(153, 0, 255);
+}
+
+#ba{
+    width: 300px;
+    height: 100px;
+    color: black;
+}
+
+h1{
+    font-size: 50px;
+    color: blue;
+}
+
+.ka h1{
+    color: rgb(9, 255, 29);
+    font-size: 100px;
+}
+
+
+
+.btn{
+    width: 300px;
+    width: 100px;
+    background-color: black;
+
+}
+
+.btn:hover{
+    color: aliceblue;
+    width: 400px;
+}
+
